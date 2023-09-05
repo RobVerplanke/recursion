@@ -1,2 +1,0 @@
-# recursion
-Recursive functions practice
